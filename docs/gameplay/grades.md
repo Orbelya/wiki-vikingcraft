@@ -42,11 +42,11 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/back**                   | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/emote**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/craft**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **/ptime**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/ptime**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/top**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/hat**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **Récupérer spawner**        | ❌      | ❌ | ✅ | ✅ | ✅              |
-| **/speedfly**               | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/speedfly**               | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/ext**                    | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/skull**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
