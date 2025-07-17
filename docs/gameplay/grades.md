@@ -42,10 +42,10 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/back**                   | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/emote**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/craft**                  | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **/ptime**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/ptime**                  | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/top**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/hat**                    | ❌      | ✅ | ✅ | ✅ | ✅              |
-| **Récupérer spawner**        | ❌      | ❌ | ✅ | ✅ | ✅              |
+| **Récupérer spawner**        | ❌      | ✅ | ✅ | ✅ | ✅              |
 | **/speedfly**               | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/ext**                    | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/feed**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
@@ -54,15 +54,15 @@ Découvrez les différents grades disponibles sur le serveur et les avantages qu
 | **/glow**                   | ❌      | ❌ | ✅ | ✅ | ✅              |
 | **/four**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
 | **/tags**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/emoji**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/anvil**                  | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/stonecutter**            | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/smithingtable**          | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/grindstone**             | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/loom**                   | ❌      | ❌ | ❌ | ✅ | ✅              |
-| **/cartographytable**       | ❌      | ❌ | ❌ | ✅ | ✅              |
+| **/emoji**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/anvil**                  | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/stonecutter**            | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/smithingtable**          | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/grindstone**             | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/loom**                   | ❌      | ❌ | ❌ | ❌ | ✅              |
+| **/cartographytable**       | ❌      | ❌ | ❌ | ❌ | ✅              |
 | **Items au /ah**             | 25      | 50 | 75 | 100 | 100            |
 | **Nombre de home**           | 5       | 15 | 25 | 50 | 50             |
-| **Coffre de shop**           | 10      | 20 | 25 | 25 | 25             |
+| **Coffre de shop**           | 10      | 20 | 20 | 20 | 25             |
 | **Salaire par heure**        | 50      | 100 | 150 | 200 | 200            |
 | **Kit**                     | Kit Naufragé | Kit Explorateur | Kit Guerrier | Kit Viking | Kit Viking+      |
